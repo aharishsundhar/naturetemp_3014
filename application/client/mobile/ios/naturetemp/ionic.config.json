@@ -1,0 +1,7 @@
+{
+  "name": "naturetemp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
